@@ -1,3 +1,4 @@
+Year 2 university prject
 This is a micro-mouse simulator designed for testing exploration and solving algorithms. The maze is displayed in the console using ASCII characters. It currently runs a floodfill based algorithm.
 
 The mouse is represented as a blue arrow: A, >, V or <
